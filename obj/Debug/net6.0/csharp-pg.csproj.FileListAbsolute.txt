@@ -1,0 +1,15 @@
+/Users/poomyimyuean/Desktop/Poomkun/Hub/Code/Playground/csharp-pg/obj/Debug/net6.0/csharp-pg.csproj.AssemblyReference.cache
+/Users/poomyimyuean/Desktop/Poomkun/Hub/Code/Playground/csharp-pg/obj/Debug/net6.0/csharp-pg.GeneratedMSBuildEditorConfig.editorconfig
+/Users/poomyimyuean/Desktop/Poomkun/Hub/Code/Playground/csharp-pg/obj/Debug/net6.0/csharp-pg.AssemblyInfoInputs.cache
+/Users/poomyimyuean/Desktop/Poomkun/Hub/Code/Playground/csharp-pg/obj/Debug/net6.0/csharp-pg.AssemblyInfo.cs
+/Users/poomyimyuean/Desktop/Poomkun/Hub/Code/Playground/csharp-pg/obj/Debug/net6.0/csharp-pg.csproj.CoreCompileInputs.cache
+/Users/poomyimyuean/Desktop/Poomkun/Hub/Code/Playground/csharp-pg/bin/Debug/net6.0/csharp-pg
+/Users/poomyimyuean/Desktop/Poomkun/Hub/Code/Playground/csharp-pg/bin/Debug/net6.0/csharp-pg.deps.json
+/Users/poomyimyuean/Desktop/Poomkun/Hub/Code/Playground/csharp-pg/bin/Debug/net6.0/csharp-pg.runtimeconfig.json
+/Users/poomyimyuean/Desktop/Poomkun/Hub/Code/Playground/csharp-pg/bin/Debug/net6.0/csharp-pg.dll
+/Users/poomyimyuean/Desktop/Poomkun/Hub/Code/Playground/csharp-pg/bin/Debug/net6.0/ref/csharp-pg.dll
+/Users/poomyimyuean/Desktop/Poomkun/Hub/Code/Playground/csharp-pg/bin/Debug/net6.0/csharp-pg.pdb
+/Users/poomyimyuean/Desktop/Poomkun/Hub/Code/Playground/csharp-pg/obj/Debug/net6.0/csharp-pg.dll
+/Users/poomyimyuean/Desktop/Poomkun/Hub/Code/Playground/csharp-pg/obj/Debug/net6.0/ref/csharp-pg.dll
+/Users/poomyimyuean/Desktop/Poomkun/Hub/Code/Playground/csharp-pg/obj/Debug/net6.0/csharp-pg.pdb
+/Users/poomyimyuean/Desktop/Poomkun/Hub/Code/Playground/csharp-pg/obj/Debug/net6.0/csharp-pg.genruntimeconfig.cache
