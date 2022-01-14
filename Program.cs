@@ -1,12 +1,13 @@
 ﻿using System;
 
-namespace Program
+namespace Basic_01
 {
 	class Program
 	{
 		public static void Main(string[] args)
 		{
-			Console.WriteLine("Hello Program.");
+			Basic_01 basic01 = new Basic_01();
+			basic01.Basic();
 		}
 	}
 }
